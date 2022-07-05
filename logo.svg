@@ -7,33 +7,8 @@
    viewBox="0 0 112.28255 18.891781"
    version="1.1"
    id="svg945"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview947"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     width="112.28255mm"
-     height="18.89178mm"
-     inkscape:zoom="2"
-     inkscape:cx="43"
-     inkscape:cy="25.75"
-     inkscape:window-width="2880"
-     inkscape:window-height="1541"
-     inkscape:window-x="3229"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs942">
     <rect
@@ -124,102 +99,93 @@
     </clipPath>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-50.810759,-173.39173)">
     <g
-       id="g58544"
-       transform="translate(0.99999797,1.0000007)">
+       id="g58256"
+       transform="matrix(0.35277777,0,0,-0.35277777,-62.380133,286.29)">
       <g
-         id="g58256"
-         transform="matrix(0.35277777,0,0,-0.35277777,-63.380131,285.29)">
-        <g
-           id="g58258"
-           clip-path="url(#clipPath58262)">
-          <path
-             d="m 489.57,311.33 -0.36,-11.21 -8.89,-5.13 -9.89,5.29 0.36,11.21 8.89,5.13 z"
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             id="path58264" />
-        </g>
+         id="g58258"
+         clip-path="url(#clipPath58262)">
+        <path
+           d="m 489.57,311.33 -0.36,-11.21 -8.89,-5.13 -9.89,5.29 0.36,11.21 8.89,5.13 z"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path58264" />
       </g>
+    </g>
+    <g
+       id="g58266"
+       transform="matrix(0.35277777,0,0,-0.35277777,-62.380133,283.11498)">
       <g
-         id="g58266"
-         transform="matrix(0.35277777,0,0,-0.35277777,-63.380131,282.11498)">
-        <g
-           id="g58268"
-           clip-path="url(#clipPath58272)">
-          <text
-             transform="matrix(1,0,0,-1,323.33,260.47)"
-             style="font-variant:normal;font-weight:100;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-Thin;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text58276"><tspan
-               x="0 16.57308 33.847561 50.420639 66.993721 85.590843 102.52464 117.89532"
-               y="0"
-               sodipodi:role="line"
-               id="tspan58274">ADVANCED</tspan></text>
-        </g>
+         id="g58268"
+         clip-path="url(#clipPath58272)">
+        <text
+           transform="matrix(1,0,0,-1,323.33,260.47)"
+           style="font-variant:normal;font-weight:100;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-Thin;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58276"><tspan
+             x="0 16.57308 33.847561 50.420639 66.993721 85.590843 102.52464 117.89532"
+             y="0"
+             id="tspan58274">ADVANCED</tspan></text>
       </g>
+    </g>
+    <g
+       id="g58278"
+       transform="matrix(0.35277777,0,0,-0.35277777,-62.380133,283.11498)">
       <g
-         id="g58278"
-         transform="matrix(0.35277777,0,0,-0.35277777,-63.380131,282.11498)">
-        <g
-           id="g58280"
-           clip-path="url(#clipPath58284)">
-          <text
-             transform="matrix(1,0,0,-1,465.91,260.47)"
-             style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text58288"><tspan
-               x="0 16.773479 33.186241 49.47876 67.695122 83.025719 99.799202 108.77712 123.76704 141.86316"
-               y="0"
-               sodipodi:role="line"
-               id="tspan58286">CRYOSCIENC</tspan></text>
-        </g>
+         id="g58280"
+         clip-path="url(#clipPath58284)">
+        <text
+           transform="matrix(1,0,0,-1,465.91,260.47)"
+           style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58288"><tspan
+             x="0 16.773479 33.186241 49.47876 67.695122 83.025719 99.799202 108.77712 123.76704 141.86316"
+             y="0"
+             id="tspan58286">CRYOSCIENC</tspan></text>
       </g>
+    </g>
+    <g
+       id="g58290"
+       transform="matrix(0.35277777,0,0,-0.35277777,-62.380133,283.11498)">
       <g
-         id="g58290"
-         transform="matrix(0.35277777,0,0,-0.35277777,-63.380131,282.11498)">
-        <g
-           id="g58292"
-           clip-path="url(#clipPath58296)">
-          <text
-             transform="matrix(1,0,0,-1,624.7,260.47)"
-             style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text58300"><tspan
-               x="0"
-               y="0"
-               id="tspan58298">E</tspan></text>
-        </g>
+         id="g58292"
+         clip-path="url(#clipPath58296)">
+        <text
+           transform="matrix(1,0,0,-1,624.7,260.47)"
+           style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58300"><tspan
+             x="0"
+             y="0"
+             id="tspan58298">E</tspan></text>
       </g>
+    </g>
+    <g
+       id="g58302"
+       transform="matrix(0.35277777,0,0,-0.35277777,-62.380133,283.11498)">
       <g
-         id="g58302"
-         transform="matrix(0.35277777,0,0,-0.35277777,-63.380131,282.11498)">
-        <g
-           id="g58304"
-           clip-path="url(#clipPath58308)">
-          <text
-             transform="matrix(1,0,0,-1,466.06,260.47)"
-             style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text58312"><tspan
-               x="0 16.773479 33.186241 49.47876 67.695122 83.025719 99.799202 108.77712 123.76704 141.86316"
-               y="0"
-               sodipodi:role="line"
-               id="tspan58310">CRYOSCIENC</tspan></text>
-        </g>
+         id="g58304"
+         clip-path="url(#clipPath58308)">
+        <text
+           transform="matrix(1,0,0,-1,466.06,260.47)"
+           style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58312"><tspan
+             x="0 16.773479 33.186241 49.47876 67.695122 83.025719 99.799202 108.77712 123.76704 141.86316"
+             y="0"
+             id="tspan58310">CRYOSCIENC</tspan></text>
       </g>
+    </g>
+    <g
+       id="g58314"
+       transform="matrix(0.35277777,0,0,-0.35277777,-62.380133,283.11498)">
       <g
-         id="g58314"
-         transform="matrix(0.35277777,0,0,-0.35277777,-63.380131,282.11498)">
-        <g
-           id="g58316"
-           clip-path="url(#clipPath58320)">
-          <text
-             transform="matrix(1,0,0,-1,624.94,260.47)"
-             style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text58324"><tspan
-               x="0"
-               y="0"
-               id="tspan58322">E</tspan></text>
-        </g>
+         id="g58316"
+         clip-path="url(#clipPath58320)">
+        <text
+           transform="matrix(1,0,0,-1,624.94,260.47)"
+           style="font-variant:normal;font-weight:800;font-size:20.04px;font-family:Raleway;-inkscape-font-specification:Raleway-ExtraBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58324"><tspan
+             x="0"
+             y="0"
+             id="tspan58322">E</tspan></text>
       </g>
     </g>
   </g>
