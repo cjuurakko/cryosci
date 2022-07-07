@@ -2,13 +2,38 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="96.675987mm"
-   height="15.64934mm"
-   viewBox="0 0 96.675993 15.64934"
+   width="110.30203mm"
+   height="17.73568mm"
+   viewBox="0 0 110.30204 17.73568"
    version="1.1"
    id="svg945"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview947"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="110.30203mm"
+     height="17.73568mm"
+     inkscape:zoom="4"
+     inkscape:cx="171"
+     inkscape:cy="5.375"
+     inkscape:window-width="2880"
+     inkscape:window-height="1541"
+     inkscape:window-x="3229"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs942">
     <rect
@@ -99,11 +124,13 @@
     </clipPath>
   </defs>
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-54.310761,-170.67672)">
+     transform="translate(-54.81076,-171.17672)">
     <g
        id="g1122"
-       transform="matrix(1.046295,0,0,1.046295,-2.0143158,-7.4014759)">
+       transform="matrix(1.1953069,0,0,1.1953069,-9.6072653,-32.334337)">
       <g
          id="g58256"
          transform="matrix(0.29235459,-0.00958549,-0.00958549,-0.29235459,-37.365862,268.00712)">
@@ -166,6 +193,7 @@
              id="text58288"><tspan
                x="0 16.773479 33.186241 49.47876 67.695122 83.025719 99.799202 108.77712 123.76704 141.86316"
                y="0"
+               sodipodi:role="line"
                id="tspan58286">CRYOSCIENC</tspan></text>
         </g>
       </g>
